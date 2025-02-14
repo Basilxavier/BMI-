@@ -9,7 +9,7 @@ def calculate_bmi(weight, height):
     The BMI.
   """
 
-  bmi = weight (height ** 2)
+  bmi = weight/(height ** 2)
   return bmi
 
 
